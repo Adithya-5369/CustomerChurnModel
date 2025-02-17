@@ -30,7 +30,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ### Clone the Repository
 ```bash
 git clone https://github.com/Adithya-5369/CustomerChurnModel.git
-cd TelcoChurnPrediction
+cd CustomerChurnModel
 ```
 
 ### Running the Project
