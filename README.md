@@ -72,5 +72,3 @@ This project is open-source and available under the MIT License.
 
 ## Author
 [Adithya Sai Srinivas](https://github.com/Adithya-5369)
-
-Feel free to fork, contribute, and improve this project!
