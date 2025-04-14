@@ -3,6 +3,8 @@
 ## Overview
 This project aims to predict customer churn for a telecom company using machine learning models. The dataset used is the **Telco Customer Churn** dataset from Kaggle. The models implemented include **Random Forest** and **XGBoost**, and performance is evaluated using accuracy, classification reports, and confusion matrices.
 
+---
+
 ## Features and Implementation
 - **Data Preprocessing:**
   - Handling missing values
@@ -17,10 +19,10 @@ This project aims to predict customer churn for a telecom company using machine 
   - Confusion Matrix
   - Feature Importance Analysis
 
+---
+
 ## Installation
 To run this project locally, follow these steps:
-
----
 
 ### Prerequisites
 Ensure you have Python installed along with the following libraries:
@@ -29,15 +31,11 @@ Ensure you have Python installed along with the following libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ```
 
----
-
 ### Clone the Repository
 ```bash
 git clone https://github.com/Adithya-5369/CustomerChurnModel.git
 cd CustomerChurnModel
 ```
-
----
 
 ### Running the Project
 1. Ensure the **Telco Customer Churn** dataset is placed in the `data/` directory.
@@ -47,12 +45,18 @@ cd CustomerChurnModel
 python telco_churn_prediction.py
 ```
 
+---
+
 ## Dataset
 The dataset consists of customer details, contract information, and service usage features. The target variable is **Churn**, indicating whether a customer leaves the service.
+
+---
 
 ## Results
 - Model performances are evaluated using confusion matrices and feature importance plots.
 - The best-performing model can be fine-tuned further for better results.
+
+---
 
 ## Visualizations
 The project provides visualizations such as:
