@@ -20,6 +20,8 @@ This project aims to predict customer churn for a telecom company using machine 
 ## Installation
 To run this project locally, follow these steps:
 
+---
+
 ### Prerequisites
 Ensure you have Python installed along with the following libraries:
 
@@ -27,11 +29,15 @@ Ensure you have Python installed along with the following libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ```
 
+---
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/Adithya-5369/CustomerChurnModel.git
 cd CustomerChurnModel
 ```
+
+---
 
 ### Running the Project
 1. Ensure the **Telco Customer Churn** dataset is placed in the `data/` directory.
@@ -53,6 +59,8 @@ The project provides visualizations such as:
 - Confusion matrices for model evaluation
 - Feature importance charts for interpretability
 
+---
+
 ## Project Structure
 ```
 TelcoChurnPrediction/
@@ -62,13 +70,21 @@ TelcoChurnPrediction/
 │── README.md                     # Project documentation
 ```
 
+---
+
 ## Future Enhancements
 - Implement additional models like Logistic Regression and Neural Networks.
 - Hyperparameter tuning for better model accuracy.
 - Deploy as a web application using Flask or Streamlit.
 
-## License
-This project is open-source and available under the MIT License.
+---
+
+## 🛡 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this code with attribution.
+
+---
 
 ## Author
 [Adithya Sai Srinivas](https://github.com/Adithya-5369)
